@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Amr Khaled Ahmed(AK)
+Amr Khaled Ahmed(AK)
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+s-amr.ahmed@zewailcity.edu.eg
 
 Phone
-+1 (213) 352-2795
++20 1011428235
 
 Birthday
-June 23, 1982
+May 15, 2005
 
 Location
-Sacramento, California, USA
+Qena, Qena, Egypt
 
 # navbar
 
@@ -32,9 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I am a Communications and Information Engineer , at faculty of engineering Zewail University.Since my inception , I have dreamed today that I joined to Communications and Information Engineering department so that I can study what I love and what make me able to design a device that help me in helping patients and disabled to live their lives without pains. Now I achieved this dream and still seek to design this device that help people . I try to cope with the development of technology to harness it in favour of patients and disabled people.
 
 
 ## service
@@ -93,34 +91,40 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Zewail University, Faculty of Engineering, Communications and Information Engineering department
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+1st year student in the CIE department, OCT 2022
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Participated in a research project for the Mathematics course MTH124 in the 2nd Undergraduate Engineering
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Mathematics Research Forum held by the Technical Center For Career Development at Cairo University and TAKE A SECOND PLACE .
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+In 2020_ 2021
 
-My skills
+participated in alot of Ardunio based projects such as:
+    -self balancing robot project to help disabled people
+    -project helps deaf people to live a normal life
+participated in a software project:
+    -file compression using huffman algorithm
 
+In 2021 _ 2022 
+
+-participated in alot of projects such as:
+    -device help a disabled people communicate or deal with computer using Speech Recognition and Motion of Head
+incubator prototype with special design
+    -ECG and EOG simulator
+    -Syring Pump Prototype and etc..
+-Participated in a Machine Learning Projects such as:
+    -Prediction of Diabetes Readmission .
+    -Participated in a Surgery Clinic WebSite .
+
+My skills:
+R language
+90%
+MYSQL and dataBase
+60%
 Web design
 80%
 Graphic design
@@ -129,6 +133,9 @@ Branding
 90%
 WordPress
 50%
+good background in C++
+good background about data structures
+good background in Ardunio
 
 
 
